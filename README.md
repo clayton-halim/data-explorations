@@ -2,6 +2,8 @@
 A collection of all my exploratory data analyses created through either Jupyter Notebooks or R Markdown.
 
 ## Contents
+- **Approximating Pi**
+    - How can we use Monte Carlo simulations to approximate the value of pi?
 - **Donald Trump Twitter Analysis**
     - What topics does Trump like to tweet about and how does he feel about them?
     - How do his tweets fair in engagement (favorites and retweets)?
